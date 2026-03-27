@@ -117,3 +117,14 @@ This project demonstrates the ability to:
 ## 📌 Certification
 
 This project was completed as part of the IBM Business Intelligence Professional Certificate on Coursera.
+
+What my repo should look like 
+sales-customer-dashboard/
+├── README.md
+├── images/
+│   ├── sales-dashboard.png
+│   └── customer-dashboard.png
+├── dashboard/
+│   └── dashboard.twbx
+├── data/
+│   └── dataset.csv
