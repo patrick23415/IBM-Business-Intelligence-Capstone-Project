@@ -119,12 +119,33 @@ This project demonstrates the ability to:
 This project was completed as part of the IBM Business Intelligence Professional Certificate on Coursera.
 
 What my repo should look like 
-sales-customer-dashboard/
+ibm-bi-capstone/
+│
 ├── README.md
-├── images/
-│   ├── sales-dashboard.png
-│   └── customer-dashboard.png
-├── dashboard/
-│   └── dashboard.twbx
+├── LICENSE (optional)
+│
 ├── data/
-│   └── dataset.csv
+│   ├── raw/
+│   └── processed/
+│
+├── sql/
+│   ├── queries.sql
+│   ├── analysis_queries.sql
+│   └── schema.sql (optional)
+│
+├── excel/
+│   ├── data_cleaning.xlsx
+│   └── analysis.xlsx
+│
+├── tableau/
+│   ├── dashboard.twbx
+│   └── dashboard_images/
+│
+├── presentation/
+│   └── final_presentation.pptx
+│
+├── docs/
+│   └── methodology.md
+│
+└── images/
+    └── dashboard_preview.png
