@@ -117,35 +117,3 @@ This project demonstrates the ability to:
 ## 📌 Certification
 
 This project was completed as part of the IBM Business Intelligence Professional Certificate on Coursera.
-
-What my repo should look like 
-ibm-bi-capstone/
-│
-├── README.md
-├── LICENSE (optional)
-│
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── sql/
-│   ├── queries.sql
-│   ├── analysis_queries.sql
-│   └── schema.sql (optional)
-│
-├── excel/
-│   ├── data_cleaning.xlsx
-│   └── analysis.xlsx
-│
-├── tableau/
-│   ├── dashboard.twbx
-│   └── dashboard_images/
-│
-├── presentation/
-│   └── final_presentation.pptx
-│
-├── docs/
-│   └── methodology.md
-│
-└── images/
-    └── dashboard_preview.png
